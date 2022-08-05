@@ -4,19 +4,11 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Overview](#Not too hard but also not easy considering i am a beginner)
+  - [The challenge](#advice slip generator)
+- [My process](#Started desktop first before moving onto mobile view)
+  - [Built with](#built-with vs studio (html css js))
+  - [What I learned](#how to integrate an api with my app )
 
 ## Overview
 
