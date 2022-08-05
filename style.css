@@ -37,6 +37,12 @@ body {
     font-size: 1.5rem;
     padding: 2.5rem 0;
     margin-top: 1em;
+    display: flex;
+}
+
+.advice-header h1 {
+    font-size: 1.5rem;
+    letter-spacing: 3px;
 }
 
 .advice {
